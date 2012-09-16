@@ -8,9 +8,16 @@ body {
 	font-family: arial;
 	color: #000000;
 }
-#vanbungkring-main-container{
-	width:500px;
-	margin:0 auto;
-	background: #000;
-	height:400px;
+#vanbungkring-main-container {
+	width: 500px;
+	margin: 0 auto;
+	height: 400px;
+}
+#vanbungkring-main-container .logo {
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 10px;
+}
+#vanbungkring-main-container .h1 {
+	text-align: center;
 }
