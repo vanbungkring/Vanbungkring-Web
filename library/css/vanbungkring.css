@@ -1,5 +1,5 @@
 html {
-	background: #fff;
+	background: #efefef;
 	padding: 0;
 	margin: 0;
 }
@@ -11,13 +11,15 @@ body {
 #vanbungkring-main-container {
 	width: 500px;
 	margin: 0 auto;
-	height: 400px;
+	height: 350px;
+	margin-top:20px;
 }
 #vanbungkring-main-container .logo {
 	margin: 0 auto;
 	text-align: center;
 	padding-bottom: 10px;
 }
-#vanbungkring-main-container .h1 {
+#vanbungkring-main-container h1 {
 	text-align: center;
+	font-family: 'Patua One', cursive;
 }
