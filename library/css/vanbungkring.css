@@ -1,3 +1,16 @@
 html {
+	background: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: arial;
+	color: #000000;
+}
+#vanbungkring-main-container{
+	width:500px;
+	margin:0 auto;
 	background: #000;
+	height:400px;
 }
